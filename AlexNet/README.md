@@ -1,3 +1,17 @@
+## AlexNet
+
+### the novel or unusual features of AlexNet
+
+-LRN
+
+-dropout
+
+-ReLU
+
+-Deeper(at that time)
+
+
+ paper from [here](https://dl.acm.org/citation.cfm?doid=3098997.3065386)
 
 [>>> model structure](http://ethereon.github.io/netscope/#/preset/alexnet)
 
