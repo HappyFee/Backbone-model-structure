@@ -1,2 +1,17 @@
 # Backbone-model-structure
-image of some backbone and where from
+
+Papers with code of traditional convolutional backbone Network
+
+## content
+
+-AlexNet
+
+-VGGNet
+
+-GoogLeNet
+
+-ResNet
+
+-DenseNet
+
+-DetNet
