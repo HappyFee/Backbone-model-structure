@@ -9,6 +9,9 @@
 
  paper from [here](https://arxiv.org/abs/1804.06215?context=cs)
 
+[structure table of DetNet](./utils/structure.md)
+
+
 Structure of DetNet
 
 ![Detnet](./Images/DetNet_structure.png)
