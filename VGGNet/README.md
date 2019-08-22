@@ -16,9 +16,9 @@
 <a href="structure.md" ><button style="font-size: 20px; color: white; background-color: steelblue; 
 height: 50px; border-radius: 10px; " > >>> structure </button></a>
 
-[pytorch implement](./utils/VGGNet_pytorch.py)
+[pytorch implement of VGG16](./utils/VGGNet_pytorch.py)
 
-[keras implement](./utils/VGGNet_keras.py)
+[keras implement of VGG16](./utils/VGGNet_keras.py)
 
-[caffe implement](./utils/VGGNet_caffe.prototxt)
+[caffe implement of VGG16](./utils/VGGNet_caffe.prototxt)
 
