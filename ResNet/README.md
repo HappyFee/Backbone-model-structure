@@ -17,7 +17,7 @@ height: 50px; border-radius: 10px; " > >>> structure </button></a>
 
 [pytorch implement of ResNet](./utils/ResNet_pytorch.py)
 
-[keras implement of ResNet](./utils/ResNet_keras.py)
+[keras implement of ResNet](./utils/ResNet_keras50.py)
 
 [caffe implement of ResNet](./utils/ResNet_caffe.prototxt)
 
