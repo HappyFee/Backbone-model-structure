@@ -7,7 +7,7 @@
 -Deeper
 
 
- paper from [here](hhttps://arxiv.org/abs/1608.06993)
+ paper from [here](https://arxiv.org/abs/1608.06993)
 
 ### DenseNet block
 ![Denseblock](./Images/DenseBlock.png)
