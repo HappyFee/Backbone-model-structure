@@ -1,4 +1,4 @@
-## DetNetNet
+## DetNet
   
   Design for object detection
 ### Spot of DetNet
